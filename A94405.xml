@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his Excellency, Olvier Cromwell, Captain Generall of all the forces of this Common-wealth, and to the honorable councel of the army. The humble representation of severall aldermen, aldermens deputies, common councel men, and other citizens of London, in behalf of themselves and many others.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94405</idno>
+            <idno type="STC">Wing T1346</idno>
+            <idno type="STC">Thomason 669.f.17[8]</idno>
+            <idno type="STC">ESTC R211364</idno>
+            <idno type="EEBO-CITATION">99870094</idno>
+            <idno type="PROQUEST">99870094</idno>
+            <idno type="VID">163258</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163258)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f17[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his Excellency, Olvier Cromwell, Captain Generall of all the forces of this Common-wealth, and to the honorable councel of the army. The humble representation of severall aldermen, aldermens deputies, common councel men, and other citizens of London, in behalf of themselves and many others.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The representation is signed by Thomas Foot [and 35 others].</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "[illegible] may 20th 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="address">
+            <pb facs="tcp:163258:1" rendition="simple:additions"/>
+            <head>To his Excellency, <hi>Oliver Cromwel,</hi> Captain General of all the Forces of this Common-wealth, and to the honorable Councel of the Army. The humble Repreſentation of ſeverall Aldermen, Aldermens Deputies, Common Councel men, and other Citizens of <hi>London,</hi> in behalf of themſelves, and many others.</head>
+            <p>WHen we cal to mind how eminent inſtruments your Excellency, and the Army under your com<g ref="char:EOLhyphen"/>mand have been in the hand of the moſt high God, to vindicate and recover the juſt <hi>Rights</hi> and <hi>Liberties</hi> of the free people of this <hi>Nation,</hi> according to the Truſt repoſed in you, and how to theſe ends you have not ſpared to expoſe your ſelves to the extremeſt hazards of lives, and eſtates from time to time in the three <hi>Nations</hi> of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> although one trouble ſucceeded another, occaſioned by the ſeveral wars, and commotions therein, in all which the Lord of Hoſts crowned your endeavours with moſt happy ſucceſſe, and hath given you a large Intereſt in the godly well-affected in this <hi>Nation,</hi> who continually wreſtled with God by prayer on your behalfs, while you were jeo<g ref="char:EOLhyphen"/>parding of your lives for our <hi>Liberties,</hi> in the high places of the field; we therefore humbly conceive our ſelves bound in duty from that zeal we bear to the <hi>Religion, Laws, Liberties,</hi> and ſetled peace of our Native Country, (which we have cordially prayed, fought, and acted for) and very principally alſo out of that tendereſt affection, and moſt ſincere reſpect we bear your Excellency, and the Armies under your conduct, to repreſent to you, and them the ſad condition of this <hi>Nation,</hi> which ſeemeth as in one day to be deprived of its <hi>Antient liberty,</hi> to wit, their being governed by Repreſentatives, choſen by themſelves, which in all ages ſince <hi>England</hi> hath been civillized, the People have been ſo conſtantly ad<g ref="char:EOLhyphen"/>dicted to, as that notwithſtanding the various changes of their Kings, and the exerciſe of their Kingly power, even when they have atchieved it by conqueſt, there hath been ever found a neceſſiy of go<g ref="char:EOLhyphen"/>verning this Nation by Parliaments: Hereupon we cannot but hope, and do believe it is the earneſt de<g ref="char:EOLhyphen"/>ſire and expectation of thouſands well affected in this City, that ſo ancient and uſeful a priviledg, (the birthright of this Nation) will be tenderly preſerved in your Councels, as it hath been reſolutely main<g ref="char:EOLhyphen"/>tained by your blouds: Might it therefore ſeem good in your eyes, that ſome effectual means may be found out, and purſued for the meeting of the Parliament again, that ſo in ſhort time proviſion may be made for ſetling ſucceſſive Repreſentatives, which may carry on with effect and aſſurance thoſe great ends the Parliament hath conſtantly held out, yea have valiantly fought for, and to make proviſion for the Army, and many other publike and preſſing affairs, in the mean time, as hitherto hath been done, it would be a reviving to the ſad and doubtful thoughts of thoſe that have fervently prayed, and do con<g ref="char:EOLhyphen"/>tinue looking up, and waiting for ſuch a ſettlement of our Liberties as may aſſure us that our prayers, and your endeavours have not been in vain in the Lord.</p>
+            <closer>
+               <signed>Signed,
+<list>
+                     <item>Thomas Foot.</item>
+                     <item>Thomas Andrews.</item>
+                     <item>John Woolaston.</item>
+                     <item>John Kendrick.</item>
+                     <item>Thomas Arnold.</item>
+                     <item>James Ruſſel.</item>
+                     <item>Stephen Eſtwick.</item>
+                     <item>Richard Waring.</item>
+                     <item>William Hobſon.</item>
+                     <item>James Hayes.</item>
+                     <item>Maurice Tompſon.</item>
+                     <item>Thomas Aires.</item>
+                     <item>Michael Roberts.</item>
+                     <item>Samuel Warner.</item>
+                     <item>Thomas Steane.</item>
+                     <item>Lawrence Waitman.</item>
+                     <item>Michael Herring.</item>
+                     <item>John Lane.</item>
+                     <item>Edward Story.</item>
+                     <item>Thomas Allen.</item>
+                     <item>William Beek.</item>
+                     <item>Jones Wainright.</item>
+                     <item>Edward Winſlow.</item>
+                     <item>Michael Daviſon.</item>
+                     <item>Thomas Steines.</item>
+                     <item>Tempeſt Milns.</item>
+                     <item>Walter Buſhly.</item>
+                     <item>William Tompſon.</item>
+                     <item>Richard Lawton.</item>
+                     <item>Allen Jones.</item>
+                     <item>William Penneyer.</item>
+                     <item>William Molins.</item>
+                     <item>Sam: Lee.</item>
+                     <item>Henry Bonner.</item>
+                     <item>Thomas Cobhil.</item>
+                     <item>Bar: Meere.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="disposition">
+            <opener>
+               <dateline>
+                  <date>Friday the 20 of <hi>May</hi> 1653.</date> At the Councel of State at <hi>White-Hall.</hi>
+               </dateline>
+            </opener>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon the reading of a Repreſentation brought into the Councel by the</hi> Lord General, <hi>which was this day delivered to his</hi> Lord<g ref="char:EOLhyphen"/>ſhip <hi>by ſome perſons of the City of</hi> London, <hi>in the name of ſeveral Aldermen, Aldermens Deputies, Common-Councel men, and other Citizens of</hi> London, <hi>and upon conſideration had thereof, it is ordered that all ſuch perſons who have ſigned the ſaid Repreſentation, and who have any place of publick Truſt upon them, and for which they receive ſalary, and allowance from the Common-wealth, be forthwith diſmiſſed, and diſcharged from their reſpective places, and imployments.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <p>You have here likewiſe inſerted, a Copy of ingenious verſes, in relation to the Lord General <hi>Cromwel,</hi> which were taken by the original, as they were ſet up on the Exchange.</p>
+            <l>Aſcend three Thrones, great Captain and Divine</l>
+            <l>By the will of God, oh Lyon for they are thine.</l>
+            <l>Come Preiſt of God, bring Oyl, bring Robes, bring gold,</l>
+            <l>Bring Crowns, and Scepters, 'tis high time to unfould</l>
+            <l>Your cloyſter'd baggs, your State cheats, lest the Rod</l>
+            <l>Of ſteel, and iron of your King, and God</l>
+            <l>Pay you in's wrath with intereſt, kneel and pray</l>
+            <l>To <hi>Oliver</hi> the Torch of <hi>Syon,</hi> and ſtar of day:</l>
+            <l>Shout then you Marchants, City and Gentry ſing.</l>
+            <l>And all bare headed cry, God ſave the King.</l>
+         </div>
+      </back>
+   </text>
+</TEI>
